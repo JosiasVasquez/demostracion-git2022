@@ -1,3 +1,5 @@
 Primera tarea, crear un repositorio
 segunda tarea, Crear un archivo dentro del repositorio.
 tercera tarea, escribir algo en el archivo.
+Cuarta tarea, Crear un commit.
+Cuarta tarea insiso A, agregar faltantes al commit.
