@@ -1,0 +1,29 @@
+commit 6dd64d23fc10f2c8ee52f267d766431fe555236d
+Author: Josias Vásquez <contacto@josiasvasquez.com>
+Date:   Sat Jun 25 07:27:16 2022 -0600
+
+    ingresamos la cuarta tarea.
+
+commit 9b2cec61303fff7d67c2a5b20ef7fd291327d26b
+Author: Josias Vásquez <contacto@josiasvasquez.com>
+Date:   Sat Jun 25 07:26:22 2022 -0600
+
+    ingresamos la tercera tarea
+
+commit 8efd65ba05228d1f2e5bfafa120faa45e4ab9552
+Author: Josias Vásquez <contacto@josiasvasquez.com>
+Date:   Sat Jun 25 07:23:56 2022 -0600
+
+    creamos la segunda tarea
+
+commit 2a58e0d3b92142ff557339c43e88b7175a8795fa
+Author: Josias Vásquez <contacto@josiasvasquez.com>
+Date:   Sat Jun 25 07:23:03 2022 -0600
+
+    ingresamos la primera tarea
+
+commit 049160d83d8db182075daf86c083c7b1de31fc7a
+Author: Josias Vásquez <contacto@josiasvasquez.com>
+Date:   Sat Jun 25 07:19:31 2022 -0600
+
+    Creamos el archivo lista de tareas
